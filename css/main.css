@@ -356,7 +356,7 @@ section.special, article.special {
   text-align: center; }
 
 header p {
-  color: rgba(255, 255, 255, 0.95);
+  color: rgba(255, 255, 255, 1);
   position: relative;
   margin: 0 0 1.5em 0;
   text-align: center;}
@@ -843,7 +843,7 @@ button,
   -ms-transition: opacity 0.5s ease-in-out;
   transition: opacity 0.5s ease-in-out;
   bottom: 4em;
-  color: rgba(255, 255, 255, 0.5);
+  color: rgba(255, 255, 255, 1);
   left: 4em;
   right: 4em;
   text-align: center;
