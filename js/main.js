@@ -36,9 +36,9 @@
 
 					// Images (in the format of 'url': 'alignment').
 						images: {
-							'https://luhe.xyz/images/8d597783b02f0.jpg': 'center',
-							'https://luhe.xyz/images/5a7f5d133f25f.jpg': 'center',
-							'https://luhe.xyz/images/156a76a0c06b2.jpg': 'center'
+							'http://08.0000888.xyz:8088/files/opt/wwwroot/entware/img/8d597783b02f0.jpg': 'center',
+							'http://08.0000888.xyz:8088/files/opt/wwwroot/entware/img/5a7f5d133f25f.jpg': 'center',
+							'http://08.0000888.xyz:8088/files/opt/wwwroot/entware/img/156a76a0c06b2.jpg': 'center'
 
 						},
 
